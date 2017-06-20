@@ -7,8 +7,6 @@ function initMap(){
 		streetViewControl:false
 	});
 
-
-
 	function buscar(){
 		if(navigator.geolocation){
 			navigator.geolocation.getCurrentPosition(funcionExito, funcionError);
