@@ -12,7 +12,7 @@
 
 button{
 	margin: 15px auto;
-	padding: 10px 15px;
+	padding: 14px 15px;
 	color:white;
 	background-color: #faae27;
 	border: 0;
@@ -21,9 +21,18 @@ button{
 	font-family: "Ralawey";
 	font-size: 15px;
 	display: inline;
+	margin-right: 20px;
+	margin-left: 20px;
 }
 
 button:hover, button:focus{
 	outline: 0;
 }
 
+#icono{
+	height:20px;
+}
+
+#nav{
+	background-color: #837EB1;
+}
